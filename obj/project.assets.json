@@ -3178,19 +3178,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wasadmin\\.nuget\\packages\\": {}
+    "C:\\Users\\Super User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LabFiles\\.net\\API\\TutorialApi\\TutorialApi.csproj",
+      "projectUniqueName": "C:\\git\\dotnet-backend\\TutorialApi.csproj",
       "projectName": "TutorialApi",
-      "projectPath": "C:\\LabFiles\\.net\\API\\TutorialApi\\TutorialApi.csproj",
-      "packagesPath": "C:\\Users\\wasadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\LabFiles\\.net\\API\\TutorialApi\\obj\\",
+      "projectPath": "C:\\git\\dotnet-backend\\TutorialApi.csproj",
+      "packagesPath": "C:\\Users\\Super User\\.nuget\\packages\\",
+      "outputPath": "C:\\git\\dotnet-backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wasadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Super User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3250,7 +3250,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
